@@ -1,0 +1,45 @@
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Other
+*.moved-aside
+*.xcuserstate
+.DS_Store
+
+# MacOX
+Brastlewark/.DS_Store
+.DS_Store
+Brastlewark/project.xcworkspace/xcshareddata/
+Brastlewark/project.xcworkspace/xcuserdata/
+Brastlewark.xcodeproj/xcuserdata/
+Brastlewark.xcworkspace/xcshareddata/
+Brastlewark.xcworkspace/xcuserdata/
+
+Pods/*
+Podfile.lock
+
+*.mobileprovision
+
+*.cer
+
+*.lock
+
+fastlane/report\.xml
+
+swiftlint\.result\.json
+
+build/
+
+*.certSigningRequest
+
+*.p12
+
+output/

@@ -1,0 +1,15 @@
+/* 
+  HomeModule.strings
+  Brastlewark
+
+  Created by Arnold Giuseppe Dominguez Eusebio on 10/3/19.
+  Copyright © 2019 Chimparon. All rights reserved.
+*/
+
+"Sheet.Title" = "Ordenar por:";
+"Sheet.Message" = "¿Como desea organizar los resultados?";
+"Sheet.Option.1" = "Edad - Menor a mayor";
+"Sheet.Option.2" = "Edad - Mayor a menor";
+"Sheet.Option.3" = "Sin ordenar";
+"Sheet.Option.4" = "Cancelar";
+"Alert.Message" = "Ocurrió un error inesperado, intenta mas tarde.";

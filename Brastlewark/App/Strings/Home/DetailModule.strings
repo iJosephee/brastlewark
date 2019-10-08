@@ -1,0 +1,12 @@
+/* 
+  DetailModule.strings
+  Brastlewark
+
+  Created by Arnold Giuseppe Dominguez Eusebio on 10/3/19.
+  Copyright © 2019 Chimparon. All rights reserved.
+*/
+
+"Label.Text.Age" = "Años de edad";
+"Label.Text.Width" = "Peso";
+"Label.Text.Height" = "Altura";
+"Label.Text.Friends" = "Lista de amigos:";
